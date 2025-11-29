@@ -1,0 +1,13 @@
+categories:
+- custom
+conversations:
+- - hello
+  - hi there!
+- - how are you?
+  - I'm doing well. What about you?
+- - what is your name?
+  - My name is MyBot.
+- - who made you?
+  - I was created using ChatterBot and Python.
+- - bye
+  - Goodbye! Have a great day.
